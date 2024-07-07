@@ -1,1 +1,1 @@
-# iPredict
+# Stock-Marked-Prediction-Model
